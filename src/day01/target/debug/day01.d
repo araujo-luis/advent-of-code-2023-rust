@@ -1,0 +1,1 @@
+/Users/p901zto/Projects/advent-of-code-2023/src/day01/target/debug/day01: /Users/p901zto/Projects/advent-of-code-2023/src/day01/src/input.txt /Users/p901zto/Projects/advent-of-code-2023/src/day01/src/main.rs
